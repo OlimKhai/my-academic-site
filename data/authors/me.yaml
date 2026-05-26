@@ -28,8 +28,8 @@ interests:
 education:
   - degree: Bachelor
     institution: RUDN University
-    start: 2021-09-01
-    end: 2025-06-30
+    start: 2025-09-10
+    end: 2029-06-30
 
 # Your Links
 links:
@@ -55,3 +55,7 @@ languages:
     level: 4
   - name: Russian
     level: 5
+  - name: Farsi
+    level: 6
+  - name: Turkish
+    level: 7
