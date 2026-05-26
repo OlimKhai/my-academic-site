@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.145.0
-      NODE_OPTIONS: "--allow-fs-read" # Fixes permission issues with newer Node versions
+      NODE_OPTIONS: "" # Fixes permission issues with newer Node versions
     steps:
       - name: Install Hugo CLI
         run: |
