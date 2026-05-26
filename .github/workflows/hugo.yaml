@@ -23,7 +23,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.145.0
+      HUGO_VERSION: 0.147.0
       NODE_OPTIONS: "" # Fixes permission issues with newer Node versions
     steps:
       - name: Install Hugo CLI
