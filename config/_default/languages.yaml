@@ -4,7 +4,13 @@
 
 # Default language
 en:
-  locale: en-us
+  languageName: English
+  weight: 1
+  title: "Olim Khaidarov"
+ru:
+  languageName: Русский
+  weight: 2
+  title: "Олим Хайдаров"
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
